@@ -1,7 +1,5 @@
 name: Matrix Demo
-
 on: push
-
 jobs:
   build:
     strategy:
